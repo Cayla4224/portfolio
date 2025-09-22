@@ -17,19 +17,19 @@ import { motion } from "framer-motion";
 
 // ==== Customize these objects with your info ====
 const profile = {
-  name: "Your Name",
+  name: "Cayla Smith",
   role: "Full-Stack Developer · Software Engineer",
   summary:
     "I design and build scalable web apps with clean architectures, delightful UX, and measurable business impact.",
   location: "City, Country",
   availability: "Open to full-time · contract · remote",
   resumeUrl: "#", // e.g. "/resume.pdf"
-  email: "mailto:you@example.com",
+  email: "crodri0297@gmail.com",
 };
 
 const social = {
-  githubUrl: "https://github.com/your-handle",
-  linkedinUrl: "https://www.linkedin.com/in/your-handle/",
+  githubUrl: "https://github.com/Cayla4224",
+  linkedinUrl: "https://www.linkedin.com/in/cayla-smith-b5707932a",
   websiteUrl: "https://yourdomain.dev",
 };
 
